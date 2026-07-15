@@ -23,6 +23,5 @@ I'm Nirny, a 20 years old web developer from Hungary.
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Nirny N.lederer.hu](https://Nirny.lederer.hu)
+
